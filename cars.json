@@ -1,34 +1,82 @@
 [
   {
     "id": 1,
-    "preco": "R$ 300.000,00",
-    "bateria": "300 kWh",
-    "potencia": "200cv",
-    "recarga": "30 min",
-    "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
+    "price": "R$ 119.990,00",
+    "battery": "30,8 kWh",
+    "power": "61cv",
+    "recharge": "11h",
+    "urlPhoto": "https://raw.githubusercontent.com/MarceloCLopes/cars-api/main/img/eletric_car1.png"
   },
   {
     "id": 2,
-    "preco": "R$ 200.000,00",
-    "bateria": "230 kWh",
-    "potencia": "100cv",
-    "recarga": "20 min",
-    "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
+    "price": "R$ 139.900,00",
+    "battery": "30,2 kWh",
+    "power": "62cv",
+    "recharge": "40 min",
+    "urlPhoto": "https://raw.githubusercontent.com/MarceloCLopes/cars-api/main/img/eletric_car2.png"
   },
   {
     "id": 3,
-    "preco": "R$ 554.000,00",
-    "bateria": "430 kWh",
-    "potencia": "400cv",
-    "recarga": "60 min",
-    "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
+    "price": "R$ 149.990,00",
+    "battery": "26,8 kWh",
+    "power": "65cv",
+    "recharge": "9 h",
+    "urlPhoto": "https://raw.githubusercontent.com/MarceloCLopes/cars-api/main/img/eletric_car3.png"
   },
   {
     "id": 4,
-    "preco": "R$ 323.000,00",
-    "bateria": "130 kWh",
-    "potencia": "200cv",
-    "recarga": "50 min",
-    "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
+    "price": "R$ 149.800,00",
+    "battery": "44,9 kWh",
+    "power": "95cv",
+    "recharge": "6,41 h",
+    "urlPhoto": "https://raw.githubusercontent.com/MarceloCLopes/cars-api/main/img/eletric_car4.png"
+  },
+  {
+    "id": 5,
+    "price": "R$ 259.990,00",
+    "battery": "54 kWh",
+    "power": "136cv",
+    "recharge": "7,5 h",
+    "urlPhoto": "https://raw.githubusercontent.com/MarceloCLopes/cars-api/main/img/eletric_car5.png"
+  },
+  {
+    "id": 6,
+    "price": "R$ 219.990,00",
+    "battery": "42 kWh",
+    "power": "217cv",
+    "recharge": "41 min",
+    "urlPhoto": "https://raw.githubusercontent.com/MarceloCLopes/cars-api/main/img/eletric_car6.png"
+  },
+  {
+    "id": 7,
+    "price": "R$ 224.990,00",
+    "battery": "42,2 kWh",
+    "power": "118cv",
+    "recharge": "15,25 h",
+    "urlPhoto": "https://raw.githubusercontent.com/MarceloCLopes/cars-api/main/img/eletric_car7.png"
+  },
+  {
+    "id": 8,
+    "price": "R$ 238.825,00",
+    "battery": "50 kWh",
+    "power": "136cv",
+    "recharge": "30 min",
+    "urlPhoto": "https://raw.githubusercontent.com/MarceloCLopes/cars-api/main/img/eletric_car8.png"
+  },
+  {
+    "id": 9,
+    "price": "R$ 239.900,00",
+    "battery": "52,7 kWh",
+    "power": "163cv",
+    "recharge": "7,6 h",
+    "urlPhoto": "https://raw.githubusercontent.com/MarceloCLopes/cars-api/main/img/eletric_car9.png"
+  },
+  {
+    "id": 10,
+    "price": "R$ 239.990,00",
+    "battery": "52 kWh",
+    "power": "135cv",
+    "recharge": "3 h",
+    "urlPhoto": "https://raw.githubusercontent.com/MarceloCLopes/cars-api/main/img/eletric_car10.png"
   }
 ]
